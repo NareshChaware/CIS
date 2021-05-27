@@ -7,6 +7,9 @@ Main folder -> CIS
   2) Angular -> FrontEnd Code 
   3) Database -> Import sql file
 
+  1) Install NodeJs
+  2) Install Angular
+
 Technology Used -
   1) Java 1.8
   2) Spring Boot
